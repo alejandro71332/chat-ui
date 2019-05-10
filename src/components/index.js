@@ -21,7 +21,7 @@ class App extends React.PureComponent {
   render() {
     return <Container className={'spotim-header'}>
       <div className={'spotim-title'}>
-        Welcome to the Spot.IM Chat app
+        Welcome to the CPE490 Chat App!
       </div>
       <div>
         <Logo>
